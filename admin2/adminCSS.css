@@ -1,0 +1,66 @@
+body
+{
+    background-image: url('../img/jb1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+        width:100%;
+}
+#adminTitle
+{
+    float:right;
+    font-size: 48px;
+}
+
+#adminTitleText
+{
+    color:grey;
+    font-family: Old English Text MT; 
+}
+
+td,tr
+{
+    padding: 10px;
+}
+
+#adminForm
+{   
+    margin: 30px;
+    background-color: grey;
+    width:35%;
+    opacity: 0.9;
+}
+
+#adminForm2
+{   
+    margin: 30px;
+    background-color: grey;
+    width:35%;
+    opacity: 0.9;
+}
+
+a
+{
+    color:white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover
+{
+    background-color: #5bc0de;
+}
+
+#b3
+{
+    background-color: black;
+    color: white;
+    border-radius: 50% ;
+    box-shadow: grey;
+    opacity: 90%;
+}
+
+
+
+
+
